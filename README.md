@@ -1,5 +1,9 @@
-# kakuro
+# Kakuro
 kakuro solver based on CSP backtracking, forward checking and MRV with limited domains.
+just declaring you kakuro game like what I did in board_generator.py then add your function to constructor of game class in game.py
+
+# Requirements
+* Tkinter
 
 
 # Examples
